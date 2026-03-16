@@ -1,0 +1,2 @@
+# Detectacao-de-FOG-com-Modelos-Leves-e-Generalizaveis-para-Classificacao-Inter-Paciente
+Projeto de Iniciação Científica (PIBIC) focado na detecção de Freezing of Gait (FoG) em pacientes com Parkinson através de Deep Learning. O repositório contém pipelines de treinamento e avaliação de modelos CNN e LSTM usando PyTorch, aplicados a dados de sensores inerciais. Inclui validação LOSO e rastreamento de experimentos via MLflow/DagsHub.
